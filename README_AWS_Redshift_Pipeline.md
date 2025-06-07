@@ -3,8 +3,7 @@
 
 This project is a **modern data warehouse pipeline** designed and customized by **Samratha Reddy**, focused on ingesting, transforming, and loading data into **Amazon Redshift** using **Python and AWS services**. The solution mimics real-world enterprise architecture for batch ETL processing.
 
-**GitHub Repository:** [AWS-Redshift-Pipeline](https://github.com/samrathareddy/AWS-Redshift-Pipeline)
-
+**GitHub Repository:** https://github.com/samrathareddy/AWS-Redshift-Data-Warehouse-Pipeline.git 
 ---
 
 ## 📌 Project Highlights
