@@ -1,5 +1,5 @@
 
-# 🚀 AWS Redshift Data Warehouse Pipeline – by Samratha Reddy
+# 🚀 Data Warehouse with AWS Redshift – by Samratha Reddy
 
 This project is a **modern data warehouse pipeline** designed and customized by **Samratha Reddy**, focused on ingesting, transforming, and loading data into **Amazon Redshift** using **Python and AWS services**. The solution mimics real-world enterprise architecture for batch ETL processing.
 
